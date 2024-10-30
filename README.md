@@ -1,14 +1,14 @@
-# Projeto_de_IHC
-Curso:
+# Projeto-de-IHC
 
-Integrantes:
 
-Docente:
+Curso: Engenharia de Software<br/>
 
-Nome do sistema:
+Integrantes:<br/>
+Adam Andrade Ribeiro - 22400270<br/>
+Ivonete Balieiro de Almeida - 22450581<br/>
+Geovanni Ferreira Marques Veras - 22402230<br/>
+Heloíse Vitória Cruz Brito - 22400272<br/>
+Ícaro de Abreu Silva - 22402233<br/>
+Sabrina Martins Bezerra - 22402235<br/>
 
-Objetivo do trabalho:
-
-Processos feitos:
-
-links para cada diretório
+Docente: Andrey Antonio de Oliveira Rodrigues<br/>
