@@ -20,3 +20,5 @@ Sabrina Martins Bezerra - 22402235<br/>
 
 Docente: Andrey Antonio de Oliveira Rodrigues<br/>
 Sistema:
+
+**Objetivo do Trabalho e os Processos de Avaliação**<br/>
