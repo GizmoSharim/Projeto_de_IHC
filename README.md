@@ -22,8 +22,12 @@ Docente: Andrey Antonio de Oliveira Rodrigues<br/>
 
 ## Processos feitos:
 ### Proposta
+
+###PROBLEMAS
 [Problemas](https://github.com/GizmoSharim/Projeto_de_IHC/blob/main/docs/1.%20Proposta/1.1%20Problemas.md)<br/>
+
 [Soluções Existentes](https://github.com/GizmoSharim/Projeto_de_IHC/blob/main/docs/1.%20Proposta/1.2%20Solu%C3%A7%C3%B5es_Existentes.md)<br/>
+
 [Reframing](https://github.com/GizmoSharim/Projeto_de_IHC/blob/main/docs/1.%20Proposta/1.3%20Reframing.md)<br/>
 ### Design Thinking
 - **Personas:** Três personas foram criadas utilizando a técnica PATHY:<br/>
