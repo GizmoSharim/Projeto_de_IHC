@@ -18,11 +18,11 @@ Docente: Andrey Antonio de Oliveira Rodrigues<br/>
 ### Objetivo do Trabalho e os Processos de Avaliação<br/>
 -  O objetivo é oferecer suporte a pessoas que sofrem com estresse, por meio desse aplicativo que irá auxiliar no gerenciamento emocional. A plataforma fornecerá ferramentas como técnicas de relaxamento, monitoramento de níveis de estresse e orientações personalizadas. Além disso, criará uma rede de apoio para troca de experiências e busca de ajuda. A proposta visa promover o bem-estar mental e reduzir os impactos negativos do estresse no cotidiano, ajudando os usuários a terem uma vida mais equilibrada.
 
-[Problemas](https://github.com/GizmoSharim/Projeto_de_IHC/blob/main/docs/1.%20Proposta/1.1%20Problemas.md)
+
 
 ## Processos feitos:
 ### Proposta
-
+[Problemas](https://github.com/GizmoSharim/Projeto_de_IHC/blob/main/docs/1.%20Proposta/1.1%20Problemas.md)
 ### Design Thinking
 - **Personas:** Três personas foram criadas utilizando a técnica PATHY:<br/>
   1. **Ana Oliveira (20 anos)** <br/>
