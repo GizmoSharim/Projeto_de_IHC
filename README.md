@@ -21,7 +21,7 @@ Docente: Andrey Antonio de Oliveira Rodrigues<br/>
 
 
 ## Processos feitos:
-### Proposta
+### Proposta:
 
 #### Problemas - [Problemas](https://github.com/GizmoSharim/Projeto_de_IHC/blob/main/docs/1.%20Proposta/1.1%20Problemas.md)<br/>
 
