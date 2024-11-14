@@ -12,22 +12,15 @@ Ivonete Balieiro de Almeida - 22450581<br/>
 Ícaro de Abreu Silva - 22402233<br/>
 Sabrina Martins Bezerra - 22402235<br/>
 
+Docente: Andrey Antonio de Oliveira Rodrigues<br/>
+Sistema:
+
+**Objetivo do Trabalho e os Processos de Avaliação**<br/>
+# Sistema: LILIK - Aplicativo de Gerenciamento de Estresse
 
 ### Processos feitos:
 #### Proposta
 ##### Problema:
 Definição do problema
 
-
-
-
-
-
-
-
-Docente: Andrey Antonio de Oliveira Rodrigues<br/>
-Sistema:
-
-**Objetivo do Trabalho e os Processos de Avaliação**<br/>
-# Sistema: LILIK - Aplicativo de Gerenciamento de Estresse
 
