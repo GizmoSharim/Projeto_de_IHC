@@ -29,16 +29,17 @@ Docente: Andrey Antonio de Oliveira Rodrigues<br/>
 #### Soluções Existentes - [Soluções Existentes](https://github.com/GizmoSharim/Projeto_de_IHC/blob/main/docs/1.%20Proposta/1.2%20Solu%C3%A7%C3%B5es_Existentes.md)<br/>
 
 #### Reframing -            [Reframing](https://github.com/GizmoSharim/Projeto_de_IHC/blob/main/docs/1.%20Proposta/1.3%20Reframing.md)<br/>
-### Design Thinking
-- **Personas:** Três personas foram criadas utilizando a técnica PATHY:<br/>
- 
 
-- **Cenários de problemas:** Baseados nas personas.
+## Design Thinking
+
+#### Personas - [Personas](https://github.com/GizmoSharim/Projeto_de_IHC/tree/main/docs/2.%20Design_Thinking/2.1%20Personas)<br/>
+ 
+#### Cenários de problemas - [Cenários de problema](https://github.com/GizmoSharim/Projeto_de_IHC/tree/main/docs/2.%20Design_Thinking/2.2%20Cen%C3%A1rios_Problema)<br/>
   
 
-- **Storyboard:** Os storyboards foram elaborados com o objetivo de ilustrar de forma simplificada como as personas interagiriam com o aplicativo de combate ao estresse. Cada cena foi pensada para refletir uma interação prática e relevante com as funcionalidades do aplicativo, considerando as necessidades e comportamentos de cada usuário. A sequência de imagens é projetada para demonstrar de maneira clara como o design e as funcionalidades da solução impactam diretamente a experiência do usuário, ajudando-os a gerenciar o estresse e melhorar seu bem-estar.<br/>
+#### Storyboard -  [Storyboard](https://github.com/GizmoSharim/Projeto_de_IHC/tree/main/docs/2.%20Design_Thinking/2.3%20Storyboard )<br/>
 
-- **Mapa de Objetivos:** O mapa de objetivos foi feito para conectar o que cada persona precisa com as funcionalidades do aplicativo. A partir dos objetivos de Ana, Mariana e João, definimos o que o app deve fazer para ajudar cada um a gerenciar o estresse e melhorar o bem-estar de forma prática e personalizada.<br/> 
+#### Mapa de Objetivos: -  [Mapa de Objetivos](https://github.com/GizmoSharim/Projeto_de_IHC/tree/main/docs/2.%20Design_Thinking/2.4%20Mapa_Objetivos )<br/>
 
 
 
