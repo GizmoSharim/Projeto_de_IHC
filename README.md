@@ -16,7 +16,7 @@ Docente: Andrey Antonio de Oliveira Rodrigues<br/>
 
 ## Sistema: LILIK - Aplicativo de Gerenciamento de Estresse
 ### Objetivo do Trabalho e os Processos de Avaliação<br/>
--  nosso trabalho tem como objetivo apoiar pessoas que lidam com ansiedade, oferecendo soluções que promovam o equilíbrio emocional e ajudem a reduzir os impactos do estresse no dia a dia.
+-  Nosso trabalho tem como objetivo apoiar pessoas que lidam com ansiedade, oferecendo soluções que promovam o equilíbrio emocional e ajudem a reduzir os impactos do estresse no dia a dia.
 ## Processos feitos:
 ### Proposta
 #### Problema:
