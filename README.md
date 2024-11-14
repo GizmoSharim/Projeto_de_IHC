@@ -17,8 +17,7 @@ Docente: Andrey Antonio de Oliveira Rodrigues<br/>
 
 ## Sistema: LILIK - Aplicativo de Gerenciamento de Estresse
 ### Objetivo do Trabalho e os Processos de Avaliação<br/>
--  O objetivo é oferecer suporte a pessoas que sofrem com estresse, por meio desse aplicativo que irá auxiliar no gerenciamento emocional. A plataforma fornecerá ferramentas como técnicas de relaxamento, monitoramento de níveis de estresse e orientações personalizadas. Além disso, criará uma rede de apoio para troca de experiências e busca de ajuda. A proposta visa promover o bem-estar mental e reduzir os impactos negativos do estresse no cotidiano, ajudando os usuários a terem uma vida mais equilibrada.
-
+-  O objetivo é oferecer suporte a pessoas com estresse por meio de um aplicativo que auxilia no gerenciamento emocional. A plataforma terá técnicas de relaxamento, monitoramento de estresse e orientações personalizadas, além de uma rede de apoio para troca de experiências. A proposta visa promover bem-estar mental e uma vida mais equilibrada.
 
 
 ## Processos feitos:
