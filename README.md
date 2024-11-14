@@ -18,9 +18,9 @@ Sistema:
 **Objetivo do Trabalho e os Processos de Avaliação**<br/>
 # Sistema: LILIK - Aplicativo de Gerenciamento de Estresse
 
-### Processos feitos:
-#### Proposta
-##### Problema:
+## Processos feitos:
+### Proposta
+#### Problema:
 Definição do problema
 
 
