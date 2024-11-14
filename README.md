@@ -17,12 +17,14 @@ Docente: Andrey Antonio de Oliveira Rodrigues<br/>
 ## Sistema: LILIK - Aplicativo de Gerenciamento de Estresse
 ### Objetivo do Trabalho e os Processos de Avaliação<br/>
 -  O objetivo é oferecer suporte a pessoas que sofrem com estresse, por meio desse aplicativo que irá auxiliar no gerenciamento emocional. A plataforma fornecerá ferramentas como técnicas de relaxamento, monitoramento de níveis de estresse e orientações personalizadas. Além disso, criará uma rede de apoio para troca de experiências e busca de ajuda. A proposta visa promover o bem-estar mental e reduzir os impactos negativos do estresse no cotidiano, ajudando os usuários a terem uma vida mais equilibrada.
+
+[Problemas](https://github.com/GizmoSharim/Projeto_de_IHC/blob/main/docs/1.%20Proposta/1.1%20Problemas.md)
+
 ## Processos feitos:
 ### Proposta
 
 ### Design Thinking
 - **Personas:** Três personas foram criadas utilizando a técnica PATHY:<br/>
-[Problemas](https://github.com/GizmoSharim/Projeto_de_IHC/blob/main/docs/1.%20Proposta/1.1%20Problemas.md)
   1. **Ana Oliveira (20 anos)** <br/>
   **Quem é:** Estudante de Engenharia Civil, estagiária, sente-se sobrecarregada com prazos acadêmicos e responsabilidades.<br/>
   **Necessidades:** Precisa de uma solução para organizar seu tempo, aliviar o estresse e melhorar a qualidade do sono.<br/>
