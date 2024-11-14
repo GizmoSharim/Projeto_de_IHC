@@ -15,7 +15,7 @@ Sabrina Martins Bezerra - 22402235<br/>
 Docente: Andrey Antonio de Oliveira Rodrigues<br/>
 
 ## Sistema: LILIK - Aplicativo de Gerenciamento de Estresse
-## **Objetivo do Trabalho e os Processos de Avaliação<br/>
+## Objetivo do Trabalho e os Processos de Avaliação<br/>
 ## Processos feitos:
 ### Proposta
 #### Problema:
