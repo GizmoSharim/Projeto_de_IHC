@@ -13,6 +13,13 @@ Ivonete Balieiro de Almeida - 22450581<br/>
 Sabrina Martins Bezerra - 22402235<br/>
 
 
+### Processos feitos:
+#### Proposta
+##### Problema:
+Definição do problema
+
+
+
 
 
 
