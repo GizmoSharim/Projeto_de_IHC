@@ -42,9 +42,10 @@ Docente: Andrey Antonio de Oliveira Rodrigues<br/>
 #### Mapa de Objetivos: -  [Mapa de Objetivos](https://github.com/GizmoSharim/Projeto_de_IHC/tree/main/docs/2.%20Design_Thinking/2.4%20Mapa_Objetivos )<br/>
 
 
-## Design Alternativas
+## Design Alternativas:
 
-
+#### Design Conceitual - [Design Conceitual](https://github.com/GizmoSharim/Projeto_de_IHC/tree/main/docs/3.%20Design_Alternativas/3.1%20Design_Conceitual)<br/>
+#### Design Físico - [Design Físico](https://github.com/GizmoSharim/Projeto_de_IHC/tree/main/docs/3.%20Design_Alternativas/3.2%20Design_F%C3%ADsico)<br/>
 
 
 
