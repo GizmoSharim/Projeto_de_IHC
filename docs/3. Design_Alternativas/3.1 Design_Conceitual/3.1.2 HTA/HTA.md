@@ -26,3 +26,5 @@ O sistema de gamificação visa incentivar o uso do aplicativo, promovendo engaj
 - Recompensas diárias, como moedas e presentes, para estimular o uso frequente.
 ![Diagrama sem nome(4)(5)-Página-5 drawio](https://github.com/user-attachments/assets/05c31d0b-e3b2-492e-81da-b10045bfd2f5)
 
+# Referências:
+>Barbosa e Silva. Interação Humano-Computador. 1 ed. ELSEVIER INC, 2010.
