@@ -42,8 +42,7 @@ Docente: Andrey Antonio de Oliveira Rodrigues<br/>
 #### Mapa de Objetivos: -  [Mapa de Objetivos](https://github.com/GizmoSharim/Projeto_de_IHC/tree/main/docs/2.%20Design_Thinking/2.4%20Mapa_Objetivos )<br/>
 
 
-
-
+## Design Alternativas
 
 
 
