@@ -12,7 +12,7 @@ Aqui é ilustrado o diagrama MoLic do aplicativo Lilik, é uma base consistente 
 - ### Login da conta
 Essa parte é voltada a especificação de login da conta do usuário, os seus dados como nome e senha, e se não existir uma conta do mesmo, o sistema induz o usuário a cadastrar uma nova conta.
 
-<p align="center"> <img src="https://github.com/user-attachments/assets/53442b5a-a326-48c5-8fc4-84d2963261ae" alt="" width="500" /></p>
+<p align="center"> <img src="https://i.postimg.cc/qR9J2K27/Captura-de-tela-2024-11-26-071434.png" alt="" width="500" /></p>
 
 
 - ### Tela Inicial
