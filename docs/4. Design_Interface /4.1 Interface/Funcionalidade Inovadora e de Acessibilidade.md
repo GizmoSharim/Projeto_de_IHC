@@ -2,7 +2,8 @@
 ## Funcionalidade Inovadora
 O Lilik é um aplicativo inovador criado para auxiliar o público em geral a lidar com o estresse do dia a dia, tornando-se uma ferramenta acessível e eficaz para todos os usuários. Um dos principais recursos do aplicativo é a realização de liçôes interativas, que incluem a interação com pets proporcionando um espaço para apoio emocional. Além disso, o Lilik recompensas os usuarios por prática de autocuidado, incentivando o uso contínuo das ferramentas e progresso individual. Outro diferencial do Lilik é a presença de um psicólogo virtual baseado em Inteligência Artificial(IA). Este recurso é especialmente útil para usuários que não tem condições financeiras de pagar uma consulta profissional da área da saúde mental. A IA será treinanda por profissionais da saúde mental, garantindo qualidade no atendimento. Portanto o Lilik se apresenta como uma proposta promissora, oferecendo uma abordagem abrangente para o gerenciamento de estresse, combinando autocuidade, apoio social e incentivos positivos, com o  objetivo de reduzir o estresse e melhorar a qualidade de vida dos usuários.
 
-![image](https://github.com/user-attachments/assets/6286ad4f-81ae-4505-856b-83f601d2fde2)
+![image](https://github.com/user-attachments/assets/5c37bfe1-636c-427d-8ef1-3c95bfd7c459)
+
 ![image](https://github.com/user-attachments/assets/07a7f181-f380-4ec0-befd-52658e338ee4)
 
 ## Funcionalidade para acessibilidade
