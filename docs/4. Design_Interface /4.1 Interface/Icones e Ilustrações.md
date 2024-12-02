@@ -6,9 +6,7 @@ Mostre exemplos de ícones para as principais ações do aplicativo, como botõe
 
 ![image](https://github.com/user-attachments/assets/92c480a3-db3d-4129-8168-1ecb26e3392f) 
 
-![image](https://github.com/user-attachments/assets/1ad3a85d-1bdc-4be0-ba35-e1e325b7aa35)
-
-![image](https://github.com/user-attachments/assets/c9e9a69a-7385-4ac7-ae30-8f93c1c76f94)
+![image](https://github.com/user-attachments/assets/c9e9a69a-7385-4ac7-ae30-8f93c1c76f94) ![image](https://github.com/user-attachments/assets/1ad3a85d-1bdc-4be0-ba35-e1e325b7aa35)
 
 
 
