@@ -8,6 +8,7 @@ Os botões de reações são brancos e se tornam pretos ao serem pressionados
 
 ## Animações
 Introdução do app ao abrir:
+
 ![image](https://github.com/user-attachments/assets/a97b1443-91f2-4f34-9740-48af166700b8) 
 
 ![image](https://github.com/user-attachments/assets/30b82924-917f-4904-973b-8246013a53e1)
