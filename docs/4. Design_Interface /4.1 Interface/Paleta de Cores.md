@@ -1,12 +1,18 @@
 ## Paleta de Cores
 
-- ### Cores primárias
+### Cores principais
 
-A cor azul é frequentemente associada a sentimentos de paz e serenidade. A seguir, apresentamos algumas razões que demonstram a eficácia do azul no alívio do estresse:<br/>
+As cores da imagem apresentada variam entre tonalidades escuras e vibrantes de roxo e magenta. Aqui está uma análise das cores:
 
-**1. Calmante:** Estudos indicam que o azul pode reduzir a ansiedade e promover um estado de tranquilidade. Por essa razão, é comumente utilizado em ambientes que buscam criar uma atmosfera relaxante.<br/>
-**2. Elementos Naturais:** O azul remete ao céu e ao mar, elementos naturalmente ligados à calma e à harmonia. Essas associações podem contribuir para transmitir uma sensação de amplitude e liberdade, criando um ambiente propício ao relaxamento.<br/>
-**3. Ambiente Estimulante:** O azul também é reconhecido por estimular a criatividade e a clareza mental. Ambientes decorados com essa tonalidade ajudam a liberar a mente de tensões e preocupações, favorecendo a concentração e a paz interior.<br/>
+- **Roxo escuro (quase preto):** Utilizado no topo da imagem, confere uma aparência elegante e profissional, muitas vezes associado à criatividade e introspecção.
+
+- **Roxo médio:** Um tom intermediário que pode transmitir calma e sofisticação, sendo agradável visualmente e não muito chamativo.
+
+- **Roxo vibrante:** Um pouco mais claro e marcante, traz um equilíbrio entre seriedade e dinamismo, ótimo para chamar atenção sem exageros.
+
+- **Magenta brilhante:** A cor mais chamativa da paleta, localizada na parte inferior da imagem, traz energia e uma sensação vibrante, geralmente associada a criatividade e emoção.
+
+Essas cores, combinadas, criam um contraste equilibrado e podem ser bem utilizadas para um aplicativo voltado a estresse, transmitindo tanto tranquilidade quanto motivação. O roxo e magenta são cores que podem ser acolhedoras e motivadoras ao mesmo tempo. Se precisar, posso ajudar a refinar mais a paleta para o contexto do aplicativo.
 
 ![image](https://github.com/user-attachments/assets/a842b2ea-94d8-47b6-9c99-e87fd48b76da)
 
@@ -16,15 +22,3 @@ seguindo essa ordem:
 #210932
 #2A114B
 #7E007E
-
-- ### Cores secundárias
-
-Ajustamos a paleta de cores para tonalidades mais escuras, a fim de proporcionar uma perspectiva contrastante para o usuário, não em relação ao aplicativo em si, mas à intensidade da sua claridade.
-
-![Imagem do WhatsApp de 2024-11-29 à(s) 18 50 30_b8b8bbf9](https://github.com/user-attachments/assets/5db2427d-1b16-485d-aa83-3a86f9019558)
-
-ordem de cima pra baixo: 
-#423c69
-#4a47a1
-#719eae
-#A7c5ea
