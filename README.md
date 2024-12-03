@@ -48,6 +48,10 @@ Docente: Andrey Antonio de Oliveira Rodrigues<br/>
 #### Design Físico - [Design Físico](https://github.com/GizmoSharim/Projeto_de_IHC/tree/main/docs/3.%20Design_Alternativas/3.2%20Design_F%C3%ADsico)<br/>
 
 
+## Design Interface:
+
+#### Interface - [Interface](https://github.com/GizmoSharim/Projeto_de_IHC/tree/main/docs/4.%20Design_Interface%20/4.1%20Interface)<br/>
+#### Wireframe - [Wireframe](https://github.com/GizmoSharim/Projeto_de_IHC/tree/main/docs/4.%20Design_Interface%20/4.2%20Wireframe)<br/>
 
 
 
