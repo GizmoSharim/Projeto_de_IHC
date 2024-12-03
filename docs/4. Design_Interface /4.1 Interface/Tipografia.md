@@ -1,7 +1,7 @@
-# Tipografia
+s# Tipografia
 ## Fonte primária
-Explique como a tipografia reflete a identidade do aplicativo e contribui para legibilidade
-Se houver variações de tipografia, é necessário destacar o uso especifico em cada interface
+Fonte: Fuzzy Bubbles, ela foi escolhida por ser uma fonte que lembra um desenho, parece uma fonte leve e não trás um ar de seriedade que tentamos evitar
+para deixar os usuários mais a vontade com o app.
+
 ## Fonte secundária
-Explique como a tipografia reflete a identidade do aplicativo e contribui para legibilidade
-Se houver variações de tipografia, é necessário destacar o uso especifico em cada interface
+Iceberg e a tipografia usada no nome do app na logo, por trazer uma sensação Memorável e fácil para se lembrar.
