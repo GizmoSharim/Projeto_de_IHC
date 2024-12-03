@@ -7,6 +7,7 @@ A seguir, serão apresentados exemplos de ícones para as principais ações do 
 ### Exemplos de Ícones
 
 - **Navegação e Configurações**  
+
 <div align="center">
   <img src="https://github.com/user-attachments/assets/67c1012f-053b-48bb-af9f-f88b2b9629cb" width="100" height="100">
   <img src="https://github.com/user-attachments/assets/5d894821-e430-4ad3-a514-50bbfc91915d" width="100" height="100">
@@ -15,6 +16,7 @@ A seguir, serão apresentados exemplos de ícones para as principais ações do 
 </div>
 
 - **Ações Complementares**  
+
 <div align="center">
   <img src="https://github.com/user-attachments/assets/92c480a3-db3d-4129-8168-1ecb26e3392f" width="500" height="75">
 </div>
@@ -29,6 +31,7 @@ A seguir, serão apresentados exemplos de ícones para as principais ações do 
 </div>
 
 - **Destaques e Identidade Visual**  
+
 <div align="center">
   <img src="https://github.com/user-attachments/assets/71c00c6f-f844-471d-9ec7-bd87cb8a28e6" width="150" height="300">
   <img src="https://github.com/user-attachments/assets/3513d32e-bfe5-43e1-9ee6-723bf72464a5" width="150" height="300">
