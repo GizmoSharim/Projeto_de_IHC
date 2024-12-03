@@ -1,6 +1,6 @@
 ## Tipografia
 
-A tipografia utilizada aqui é ser amigável e acessível, com dois estilos diferentes:
+A tipografia utilizada aqui é amigável e acessível, com dois estilos diferentes:
 
 ### 1. *Pacifico* (usada no logotipo "Lilik"):
 
