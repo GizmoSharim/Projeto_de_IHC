@@ -7,6 +7,4 @@ Facilita a memorização e a pronúncia
 Atraente: A sonoridade do nome é cativante
 
 - ### Logotipo
-![Imagem do WhatsApp de 2024-11-30 à(s) 00 24 26_e784c980](https://github.com/user-attachments/assets/fdf2c662-1d51-4024-bd89-20df2720056d)
-
-Queríamos que o aplicativo fosse representado pelo seu mascote, um gato rajado, e nada melhor do que incorporá-lo diretamente como o logo do app. E foi exatamente isso que fizemos.
+<img src="https://i.postimg.cc/sXFnw33j/Whats-App-Image-2024-12-03-at-10-50-38.jpg" alt="" width="300" /></p>
