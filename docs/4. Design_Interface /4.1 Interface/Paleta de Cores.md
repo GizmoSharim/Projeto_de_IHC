@@ -8,7 +8,8 @@ A cor azul é frequentemente associada a sentimentos de paz e serenidade. A segu
 **2. Elementos Naturais:** O azul remete ao céu e ao mar, elementos naturalmente ligados à calma e à harmonia. Essas associações podem contribuir para transmitir uma sensação de amplitude e liberdade, criando um ambiente propício ao relaxamento.<br/>
 **3. Ambiente Estimulante:** O azul também é reconhecido por estimular a criatividade e a clareza mental. Ambientes decorados com essa tonalidade ajudam a liberar a mente de tensões e preocupações, favorecendo a concentração e a paz interior.<br/>
 
-![Imagem do WhatsApp de 2024-11-29 à(s) 18 50 30_c50d03cf](https://github.com/user-attachments/assets/806e73ee-3fa7-4d29-861b-cb1aba276fed)
+![image](https://github.com/user-attachments/assets/a842b2ea-94d8-47b6-9c99-e87fd48b76da)
+
 
 seguindo essa ordem: 
 #e6f8fc
