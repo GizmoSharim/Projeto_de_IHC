@@ -1,7 +1,7 @@
 ## Ícones e Ilustrações
 ### Ícones Principais
 
-Mostre exemplos de ícones para as principais ações do aplicativo, como botões de navegação, configurações e outras funcionalidades. Explique como o estilo das ilustrações e ícones contribui para a personalidade e identidade visual do aplicativo.
+A seguir, serão apresentados exemplos de ícones para as principais ações do aplicativo, como botões de navegação, configurações e demais funcionalidades. Além disso, será demonstrado como o estilo das ilustrações e ícones reforça a personalidade e a identidade visual do aplicativo.
 
 ### Exemplos de Ícones
 
