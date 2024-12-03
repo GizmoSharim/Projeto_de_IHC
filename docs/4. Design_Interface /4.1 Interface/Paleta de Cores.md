@@ -12,10 +12,10 @@ A cor azul é frequentemente associada a sentimentos de paz e serenidade. A segu
 
 
 seguindo essa ordem: 
-#e6f8fc
-#79dbe8
-#0da1dc
-#2155cc
+#180018
+#210932
+#2A114B
+#7E007E
 
 - ### Cores secundárias
 
